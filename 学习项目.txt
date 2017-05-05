@@ -1,0 +1,5 @@
+https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample
+
+https://github.com/andersbll/neural_artistic_style.git
+
+https://github.com/andersbll/deeppy.git
